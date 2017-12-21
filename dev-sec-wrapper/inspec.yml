@@ -9,3 +9,19 @@ version: 0.1.0
 depends:
   - name: linux-baseline
     url: https://github.com/dev-sec/linux-baseline/archive/master.tar.gz
+  - name: php-baseline
+    url: https://github.com/dev-sec/php-baseline/archive/master.tar.gz
+  - name: postgres-baseline
+    url: https://github.com/dev-sec/postgres-baseline/archive/master.tar.gz
+  - name: ssh-baseline
+    url: https://github.com/dev-sec/ssh-baseline/archive/master.tar.gz
+  - name: ssl-baseline
+    url: https://github.com/dev-sec/ssl-baseline/archive/master.tar.gz
+  - name: linux-patch-baseline
+    url: https://github.com/dev-sec/linux-patch-baseline/archive/master.tar.gz
+  - name: cis-linux-benchmark
+    url: https://github.com/dev-sec/cis-linux-benchmark/archive/master.tar.gz
+  - name: apache-benchmark
+    url: https://github.com/dev-sec/apache-benchmark/archive/master.tar.gz
+  - name: cve-2016-5195
+    url: https://github.com/ndobson/cve-2016-5196/archive/master.tar.gz
